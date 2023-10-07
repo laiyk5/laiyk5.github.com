@@ -1,0 +1,4 @@
+baseURL = 'https://laiyk5.github.io/'
+languageCode = 'en-us'
+title = 'laiyk Site'
+theme = 'PaperMod'
