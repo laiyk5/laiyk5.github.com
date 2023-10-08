@@ -22,7 +22,7 @@ menu:
 params:
     homeInfoParams:
         Title: "[~]$ whoami"
-        Content: Researcher and develoepr interest in Machine Learning, kernel and math.
+        Content: Researcher and developer having interest in Machine Learning, Kernel and Math.
     ShowCodeCopyButtons: true
     ShowReadingTime: true
     ShowBreadCrumbs: true
